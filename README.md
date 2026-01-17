@@ -1,1 +1,1 @@
-# SPM-Mock-Project
+This project uses GitHub for configuration management.
