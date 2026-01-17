@@ -1,1 +1,1 @@
-This project uses GitHub for configuration management.
+This project demonstrates configuration management using GitHub.
